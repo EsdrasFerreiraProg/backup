@@ -115,7 +115,7 @@ function showOptions(prompt){
     const options = ['1','2','3'];
 
     console.log("\x1b[1;32m===============%-Hello, welcome to the backup assistant-%===============\x1b[0m");
-    console.log("Please choose one of options below:");
+    console.log("Please choose one of the options below:");
     console.log("1 - Backup a test suite");
     console.log("2 - Restore a test suite");
     console.log("3 - Exit")
